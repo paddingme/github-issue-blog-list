@@ -1,4 +1,4 @@
-# github-issue-blog-list
+# GitHub Issue Blog List
 
 **高质量的 Github Issue 博客列表, 数据来源于 [GitIssue](https://gitissue.com), 更新于 2019-05-06**
 
