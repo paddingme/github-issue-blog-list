@@ -29,6 +29,5 @@
 |[kuitos/kuitos.github.io](https://github.com/kuitos/kuitos.github.io)|942|284|📝Kuitos's Blog https://github.com/kuitos/kuitos.github.io/issues http://kuitos.github.io/|
 |[justjavac/the-front-end-knowledge-you-may-dont-know](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)|1924|258|:innocent: 你可能不知道的前端知识点|
 |[berwin/Blog](https://github.com/berwin/Blog)|1866|232|记录成长的过程|
-|[berwin/Blog](https://github.com/berwin/Blog)|1866|232|记录成长的过程|
 |[chemdemo/chemdemo.github.io](https://github.com/chemdemo/chemdemo.github.io)|977|218|dmyang blog|
 
