@@ -29,7 +29,6 @@
 |[kuitos/kuitos.github.io](https://github.com/kuitos/kuitos.github.io)|942|284|📝Kuitos's Blog https://github.com/kuitos/kuitos.github.io/issues http://kuitos.github.io/|
 |[justjavac/the-front-end-knowledge-you-may-dont-know](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)|1924|258|:innocent: 你可能不知道的前端知识点|
 |[berwin/Blog](https://github.com/berwin/Blog)|1866|232|记录成长的过程|
-|[berwin/Blog](https://github.com/berwin/Blog)|1866|232|记录成长的过程|
 |[chemdemo/chemdemo.github.io](https://github.com/chemdemo/chemdemo.github.io)|977|218|dmyang blog|
 |[ant-ued/blog](https://github.com/ant-ued/blog)|165|204|null|
 |[ma6174/blog](https://github.com/ma6174/blog)|119|204|博客|
@@ -80,3 +79,4 @@
 |[tencentyun/blog](https://github.com/tencentyun/blog)|109|48|Blog to share events or technique topics|
 |[lmk123/blog](https://github.com/lmk123/blog)|358|47|个人技术博客，博文写在 Issues 里。|
 |[100steps/Blogs](https://github.com/100steps/Blogs)|112|47|:green_apple: 创新，只为与你分享。|
+
